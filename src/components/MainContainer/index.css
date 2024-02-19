@@ -1,0 +1,41 @@
+.main-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.nav-menu1 {
+  list-style-type: none;
+}
+.list-item {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.para {
+  font-size: 25px;
+}
+.sub-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.order-container {
+  display: flex;
+  flex-direction: row;
+}
+.button {
+  margin-left: 100px;
+  margin-right: 700px;
+}
+.nav-menu2 {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+}
+.li {
+  font-size: 25px;
+  margin: 15px;
+}
+.blue {
+  color: blue;
+}

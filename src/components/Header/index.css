@@ -1,0 +1,23 @@
+.container1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 40px;
+}
+
+.container2 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 40px;
+}
+.website-logo {
+  margin-right: 800px;
+}
+.para {
+  margin-left: 50px;
+}
+.image {
+  height: 50px;
+  width: 50px;
+}
